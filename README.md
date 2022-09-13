@@ -1,6 +1,6 @@
 # how to find the mac address on windows 10
 
-[![how to find the mac address on windows 10](gett-stateed.png)](https://github.com/softwaretestinghel/how.to.find.the.mac.address.on.windows10/)
+[![how to find the mac address on windows 10](gett-stateed.png)](https://icncomputer.com/how-to-find-the-mac-address-on-windows-10/)
 
 A Windows 10 device, phone, and pretty much anything that connects to a network has a unique identification number known as the media access control (MAC) address embedded on the physical network adapter (Ethernet, Wi-Fi, and Bluetooth), and it's a necessary component, alongside the Internet Protocol (IP) address, to allow communication between devices inside a local network.
 
